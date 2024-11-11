@@ -28,5 +28,6 @@ Una aplicación web que permite crear, leer, actualizar y eliminar posts utiliza
 
 1. Clona el repositorio
 ```bash
-git clone https://github.com/tu-usuario/posts-crud-react.git
+git clone https://github.com/sergiog03/crud_supabase.git
 cd posts-crud-react
+npm start
